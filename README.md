@@ -1,4 +1,4 @@
-# language-parser
+# language-parser without conflict
 
 A tiny **language parser written in Go**, built as a learning project to understand how tokenization, parsing, and simple interpretation work under the hood.
 
